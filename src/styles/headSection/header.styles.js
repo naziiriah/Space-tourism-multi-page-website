@@ -8,6 +8,8 @@ const HeaderStyles = styled.header`
     background-color:;
     margin:auto;
     color:#fff;
+
+    @media screen and ()
     
 
 `;
